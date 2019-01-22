@@ -53,5 +53,5 @@
 
 		Config $ git push -u origin master
 
-- Buka laman Github.com , arahkan pada repositorinya, maka perubahan pada laman terbut
+- Buka laman Github.com , arahkan pada repositorinya, maka perubahan akan terjadi pada halaman terbut
 
